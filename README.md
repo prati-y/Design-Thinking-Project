@@ -2,6 +2,6 @@
 
 **Solution**: Developed a mobile application for CSULA students to access it easily anywhere and anytime they want for their physical activities, including the events and activities happening both in CSULA campus and free online platforms.
 
-• Created a prototype for fitness activities taking place on-campus as well as provide few helpful resources to provide the awareness about the fitness.
+• Developed a prototype of a fitness app that includes various fitness activities and resources for students to begin their fitness journey.
 
 • Identified design issues and offer solutions to improve functionality and validate with users to iterate and enhance the product.
